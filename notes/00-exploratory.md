@@ -18,4 +18,5 @@
       - $[T] = sqrt([L]/[g]), \omega = 2 \pi f = 2 \pi/T$
       - T is prortional to $sqrt(l/g)\
       - **Large angles break down our formula**
-      - 
+    - Driven pendulum
+      - inverted position stays when driven at the right frequency
